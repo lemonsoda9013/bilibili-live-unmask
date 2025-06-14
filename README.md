@@ -9,7 +9,7 @@
 
 ## 工作原理
 
-直播间页面中有一个ID为web-player-module-area-mask的<div>元素，移除该元素即可去除B站直播分区添加的马赛克。（主播自己添加的不能去除）
+直播间页面中有一个ID为web-player-module-area-mask的div元素，移除该元素即可去除B站直播分区添加的马赛克。（主播自己添加的不能去除）
 
 ## 安装
 
@@ -30,3 +30,5 @@
 注意：
 * 某些浏览器可能会默认禁用第三方扩展，需在扩展设置中明确允许
 * 安装扩展后，需要重启页面或浏览器，才能在页面上使用扩展
+
+Icon source: taken from Microsoft Teams Emoji
