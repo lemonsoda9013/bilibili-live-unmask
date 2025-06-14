@@ -2,6 +2,8 @@
 
 用于移除B站直播间马赛克模糊遮罩的浏览器扩展插件，适用于Chrome、Edge等浏览器。
 
+![示例图片](example.png)
+
 ## 功能
 
 * 手动移除：点击按钮移除直播间中的马赛克遮罩。
@@ -27,8 +29,9 @@
 1. 从本仓库的Release中下载.crx文件
 2. 将该文件拖动到浏览器上
 
-注意：
-* 某些浏览器可能会默认禁用第三方扩展，需在扩展设置中明确允许
+### 注意
+
+* 某些浏览器可能会默认禁用第三方扩展，需在扩展设置中允许使用
 * 安装扩展后，需要重启页面或浏览器，才能在页面上使用扩展
 
-Icon source: taken from Microsoft Teams Emoji
+The icon is taken from Microsoft Teams Emoji.
